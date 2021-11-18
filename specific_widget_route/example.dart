@@ -1,8 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-
-import 'specific_widget_route/launch_from_widget_route.dart';
+import 'launch_from_widget_route.dart';
 
 void main() {
   runApp(MyApp());
